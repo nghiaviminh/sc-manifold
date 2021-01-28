@@ -1,0 +1,3 @@
+[submodule "GPTP"]
+	path = GPTP
+	url = https://github.com/nghiaviminh/GPTP
